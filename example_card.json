@@ -1,0 +1,16 @@
+{
+  "attack": 5,
+  "battlegroundsPremiumDbfId": 65675,
+  "cardClass": "NEUTRAL",
+  "cost": 6,
+  "dbfId": 63619,
+  "health": 5,
+  "id": "BGS_112",
+  "mechanics": ["TRIGGER_VISUAL"],
+  "name": "Qiraji Harbinger",
+  "referencedTags": ["TAUNT"],
+  "set": "BATTLEGROUNDS",
+  "techLevel": 4,
+  "text": "After a friendly minion with <b>Taunt</b> dies, give its neighbors +2/+2.",
+  "type": "MINION"
+}
